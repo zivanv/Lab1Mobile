@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаб номер 1</string>
+    <string name="name">Ефремов Иван</string>
+    <string name="title">Б23-191-3</string>
+    <string name="phone">+7 912 597-88-73</string>
+    <string name="email">vanya.efremov.05.05@mail.ru</string>
+</resources>
